@@ -81,7 +81,7 @@ transform = Transform3D(0.996134, 0, 0.0878512, 0, 1, 0, -0.0878512, 0, 0.996134
 transform = Transform3D(0.996134, 0, 0.0878512, 0, 1, 0, -0.0878512, 0, 0.996134, -3, 8.68133, -14.3286)
 
 [node name="platform-medium6" parent="World" instance=ExtResource("7_ixpj3")]
-transform = Transform3D(0.996134, 0, 0.0878512, 0, 1, 0, -0.0878512, 0, 0.996134, -12.5723, 9.04007, -14.3286)
+transform = Transform3D(0.992365, 0, -0.123342, 0, 1, 0, 0.123342, 0, 0.992365, -12.5723, 8.73667, -14.3286)
 
 [node name="platform-medium2" parent="World" instance=ExtResource("7_ixpj3")]
 transform = Transform3D(0.995121, 0, 0.0986598, 0, 1, 0, -0.0986598, 0, 0.995121, -5, 0, 4)
@@ -330,7 +330,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -3.11913, 1.98572, -0.0886177
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -11.268, 5.86021, -6.3875)
 
 [node name="brick5" parent="World" instance=ExtResource("12_jkv2x")]
-transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12.512, 11.0747, -14.4238)
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, -12.512, 10.7237, -14.4238)
 
 [node name="brick2" parent="World" instance=ExtResource("12_jkv2x")]
 transform = Transform3D(0.855265, 0, -0.518191, 0, 1, 0, 0.518191, 0, 0.855265, -6.76351, 3.21501, -2.01957)
